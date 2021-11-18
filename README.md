@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @codenied
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, We’re @codenied Team
+## We create solutions for people
 
-<!---
-codenied/codenied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Matter on enjoying
